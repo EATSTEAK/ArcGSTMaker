@@ -1,0 +1,1 @@
+agstmaker make -obb .\main.obb -pack .\packlist -song .\songlist -dl .\dl -albumarts .\albumarts -output .\out -lang en -sublang en -output-type ogg -album-option pack -albumart-option song
